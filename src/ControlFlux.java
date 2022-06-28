@@ -2,11 +2,14 @@
 
  Criando variáveis e expressoes para estruturas if e switch
 
-- Com if, exiba o nome do mês do ano de acordo com seu número. Evite o efeito "flecha". Crie outro if que verifica se o mês é julho, dezembro ou janeiro, para exibir "Férias". 
-- Com switch use String a patir do dia da semana, exiba seu número. Faça outro switch onde se uma vaviável inteira for entre 1 e 3, exiba "Certo. Se for 4 exiba "Errado*, se for 5 "Talvez". Para outros vlores, exibir "Valor indefinido".*/
+- Com if, exiba o nome do mês do ano de acordo com seu número. Evite o efeito "flecha". 
+Crie outro if que verifica se o mês é julho, dezembro ou janeiro, para exibir "Férias". 
+- Com switch use String a patir do dia da semana, exiba seu número. 
+Faça outro switch onde se uma vaviável inteira for entre 1 e 3, exiba "Certo. 
+Se for 4 exiba "Errado*, se for 5 "Talvez". Para outros vlores, exibir "Valor indefinido".*/
 
 
-public class Main {
+public class ControlFlux {
   
   public static void main(String[] args) {
     
