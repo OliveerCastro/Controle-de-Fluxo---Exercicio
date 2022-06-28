@@ -180,8 +180,8 @@ public class Main {
         System.out.println(1);
         break;
 
-        default:
-      System.out.println("Dia inválido");
+      default:
+        System.out.println("Dia inválido");
         break;
     }
   }
